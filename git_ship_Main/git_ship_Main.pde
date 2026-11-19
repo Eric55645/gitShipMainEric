@@ -3,7 +3,7 @@
 //crew roster
 String pilot = "Prof Kit";
 String copilot = "";
-
+//test test test 1234 11/19/2026
 //spacecraft controls
 boolean viewscreen = true; //powers up main viewscreen
 boolean displays = true; //powers up left and right cockpit displays
